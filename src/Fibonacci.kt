@@ -7,10 +7,10 @@
 
 fun main() {
     //calling Fibonacci tail recursion
-    print(fibonacci(10,0,1))
+    print(fibonacci(10, 0, 1))
 }
 
-fun fibonacci(n: Int, a: Long, b: Long): Long{
-    return if (n == 0) a else fibonacci(n-1, b , a+b)
+fun fibonacci(n: Int, a: Long, b: Long): Long {
+    return if (n == 0) a else fibonacci(n - 1, b, a + b)
 }
 

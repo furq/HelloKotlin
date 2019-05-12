@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3ebf03c-25ea-48b9-a88f-3da4a0897751" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Factorial.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fibonacci.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/HelloKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/HelloKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/META-INF/Kotlin_Lessons.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/META-INF/Kotlin_Lessons.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HelloKotlin.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="765">
@@ -39,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Fibonacci.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state>
+              <caret selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -70,8 +65,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Factorial.kt" />
-        <option value="$PROJECT_DIR$/src/Fibonacci.kt" />
         <option value="$PROJECT_DIR$/src/HelloKotlin.kt" />
+        <option value="$PROJECT_DIR$/src/Fibonacci.kt" />
       </list>
     </option>
   </component>
@@ -192,7 +187,7 @@
     <frame x="10" y="43" width="1260" height="672" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -201,7 +196,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32931036" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32931036" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -239,17 +234,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fibonacci.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloKotlin.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fibonacci.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" />
         </state>
       </provider>
     </entry>
