@@ -23,3 +23,59 @@ Build a simple calculator app that allows the user to perform multiple arithmeti
 ---
 
 ## Example Output:
+Choose the following operation to perform
+1- Addition
+2- Subtraction
+3- Multiply
+4- Division
+5- Exit
+1
+Enter first number you would like to add
+34
+Enter second number you would like to add
+35
+The result of add is: 69.0
+Choose the following operation to perform
+1- Addition
+2- Subtraction
+3- Multiply
+4- Division
+5- Exit
+2
+Enter first number you would like to subtract
+36
+Enter second number you would like to subtract
+12
+The result of subtract is: 24.0
+Choose the following operation to perform
+1- Addition
+2- Subtraction
+3- Multiply
+4- Division
+5- Exit
+3
+Enter first number you would like to multiply
+234
+Enter second number you would like to multiply
+2
+The result of multiply is: 468.0
+Choose the following operation to perform
+1- Addition
+2- Subtraction
+3- Multiply
+4- Division
+5- Exit
+4
+Enter first number you would like to divide
+12
+Enter second number you would like to divide
+4
+The result of divide is: 3.0
+Choose the following operation to perform
+1- Addition
+2- Subtraction
+3- Multiply
+4- Division
+5- Exit
+5
+Exiting... Thank you for using the calculator!

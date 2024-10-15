@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3ebf03c-25ea-48b9-a88f-3da4a0897751" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KotlinExamples/SimpleCalculator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KotlinExamples/SimpleCalculator/SimpleCalculator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KotlinExamples/ToDoApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KotlinExamples/ToDoApp/ToDoManager.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/FactorialKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/FactorialKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/FibonacciKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/FibonacciKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/HelloKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/HelloKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/META-INF/Kotlin_Lessons.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/META-INF/Kotlin_Lessons.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/KotlinExamples/SimpleCalculator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/KotlinExamples/SimpleCalculator/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +54,8 @@
       <list>
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -129,6 +125,7 @@
     "Kotlin.HelloKotlinKt.executor": "Run",
     "Kotlin.SimpleCalculator.executor": "Run",
     "Kotlin.SimpleCalculatorKt.executor": "Run",
+    "Kotlin.ToDoManager.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
