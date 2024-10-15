@@ -1,14 +1,32 @@
 fun main() {
+    printMessage("Hello Kotlin!")
+    printMessagewWithPrefix("Hello Kotlin!")
+    printMessagewWithPrefix("Hello Kotlin!", "debug")
     printHello()
     basicOperation()
     conditionalStatement()
     helloArrays()
 }
 
+/*
+ * takes a parameter of type String and returns Unit (i.e., no return value).
+ **/
+fun printMessage( message: String ) : Unit {
+    println(message)
+}
+
+/*
+* A function that takes a second optional parameter with default value Info.
+* The return type is omitted, meaning that it's actually Unit.
+**/
+
+fun printMessagewWithPrefix(message: String, prefix:String = "Info") {
+    println("[$prefix] $message")
+}
+
 /* print Hello Kotlin */
 fun printHello() {
     println("Hello Kotlin")
-
 }
 
 /*

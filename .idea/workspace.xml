@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a3ebf03c-25ea-48b9-a88f-3da4a0897751" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KotlinExamples/SimpleCalculator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KotlinExamples/SimpleCalculator/SimpleCalculator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/FactorialKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/FactorialKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/FibonacciKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/FibonacciKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/HelloKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/HelloKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Lessons/META-INF/Kotlin_Lessons.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Lessons/META-INF/Kotlin_Lessons.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloKotlin.kt" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,8 +58,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -70,12 +80,16 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="y" value="43" />
     <option name="width" value="1260" />
     <option name="height" value="672" />
   </component>
+  <component name="ProjectId" id="2nPA7r0RCf4eWDBRgGJ7h8Z1iVi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -106,70 +120,64 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Kotlin.HelloKotlinKt">
-    <configuration name="FactorialKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_Lessons" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.HelloKotlinKt.executor": "Run",
+    "Kotlin.SimpleCalculator.executor": "Run",
+    "Kotlin.SimpleCalculatorKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/devsherpa_/Development/HelloKotlin",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="FactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactorialKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="Kotlin_Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_Lessons" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="FibonacciKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="Kotlin_Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_Lessons" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="HelloKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloKotlinKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="Kotlin_Lessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinExamples.SimpleCalculator.SimpleCalculatorKt" />
+      <module name="Kotlin_Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SimpleCalculatorKt" />
         <item itemvalue="Kotlin.HelloKotlinKt" />
         <item itemvalue="Kotlin.FibonacciKt" />
         <item itemvalue="Kotlin.FactorialKt" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
